@@ -1,0 +1,49 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#8BFDD835"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/welcomeText"
+        android:layout_width="wrap_content"
+        android:layout_height="67dp"
+        android:text="Welcome, Ayushri."
+        android:textColor="#4A148C"
+        android:textSize="28sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="467dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="89dp"
+            android:layout_marginBottom="16dp"
+            android:text="About TechTrends"
+            android:textColor="#4A148C"
+            android:textSize="28sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="276dp"
+            android:layout_marginBottom="24dp"
+            android:fontFamily="monospace"
+            android:text="TechTrends is your go-to platform for the latest technology news, innovations, and insights from around the world. Whether you're a tech enthusiast, student, or professional, TechTrends helps you stay updated with curated articles across categories like AI, gadgets, software, and more."
+            android:textColor="#7B1FA2"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:fontFamily="monospace"
+            android:text="Stay informed, bookmark your favorite articles (coming soon), and explore trending topics effortlessly!"
+            android:textColor="#6A1B9A"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+</LinearLayout>
