@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_cybersecurity"
+        android:title="Cybersecurity" />
+    <item
+        android:id="@+id/nav_ai"
+        android:title="AI" />
+    <item
+        android:id="@+id/nav_blockchain"
+        android:title="Blockchain" />
+    <item
+        android:id="@+id/nav_cloud"
+        android:title="Cloud" />
+    <item
+        android:id="@+id/nav_machine"
+        android:title="machine learning"/>
+    <item
+        android:id="@+id/nav_iot"
+        android:title="IOT"/>
+</menu>
