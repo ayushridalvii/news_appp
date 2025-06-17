@@ -46,13 +46,24 @@ This app is ideal for:
 HOW THE APP APPEARS ON SCREEN [LOGO]
 ![image](https://github.com/user-attachments/assets/1bdf979d-bea7-4eb1-836f-e7b3b85f3800)
 
+
+
 APP DASHBOARD [MAIN SCREEN]
+
+
 ![image](https://github.com/user-attachments/assets/c3e66883-2b4b-46e3-ad57-b7085e877a74)
 
+
+
 APP NAVIGATION BAR
+
 ![image](https://github.com/user-attachments/assets/a48ca79e-a6b4-47af-a009-d723c4772890)
 
+
+
 SEARCH ENGINE
+
+
 ![image](https://github.com/user-attachments/assets/0f315733-47c8-44f9-98f4-e1da05b7509b)
 
 
